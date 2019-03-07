@@ -1,0 +1,1 @@
+animals_list=lambda a:''.join(f'')
