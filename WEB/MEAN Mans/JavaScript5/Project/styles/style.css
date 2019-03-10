@@ -1,0 +1,113 @@
+* {
+    padding: 0;
+    margin: 0 auto;
+}
+
+body {
+    background: url(../images/background.jpg) no-repeat fixed center;
+    background-size: cover;
+}
+
+table {
+    color: orange;
+    background-color: lightyellow;
+    border: #90a8bd 1px solid;
+    font-size: 2em;
+}
+
+.prompt {
+    background: #db8a;
+    border-radius: 1em;
+    display: table;
+    padding: .8em 1em;
+    color: #911;
+    box-shadow: 1px 1px 1px 2px #444;
+    font-size: x-large;
+    font-family: sans-serif;
+    text-align: center;
+    text-shadow: 1px 1px 1px #fff;
+}
+
+.prompt:hover {
+    background: #db8;
+}
+
+td, tr {
+    padding: 0;
+}
+
+input[type="text"] {
+    width: 1em;
+    display: block;
+    font-size: 2em;
+    color:#811e;
+    background-color: #dbc7a5;
+    text-indent: .22em;
+    transition-duration: .5s;
+}
+
+input[type="text"]:focus {
+    background-color: #ffdeadc2;
+    outline-color: #736a72;
+    font-size: 2.1em;
+    transition-duration: .5s;
+}
+input[type="text"][disabled]{
+    color: #000c;
+    background-color: #bda077;
+}
+
+button {
+    outline: none;
+    font-size: 1.5em;
+    font-family: serif;
+    margin: .6em 1em;
+    padding: 0.15em .3em;
+    background-color: #bda07522;
+    box-shadow: 1px 1px 4px 1px black;
+    color: #991111;
+}
+
+button:hover {
+    background: #e8c590;
+    box-shadow: 1px 1px 4px 1px white;
+}
+
+.message {
+    background-color: #fffc;
+    border-radius: 1em;
+    font-family: fantasy;
+    border: 2px solid #151515;
+    position: absolute;
+    text-align: center;
+    transition-duration: 2s;
+    z-index: 1;
+    padding: .5em;
+}
+
+#game, .message, .prompt, table {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#game > div {
+    position: absolute;
+    z-index: 1;
+    display: block;
+    top: -7em;
+    left: -3em;
+    width: 5em;
+    color: #000c;
+    background-color: #fffd;
+    padding: .5em;
+    font-size: 2.5em;
+    font-family: fantasy;
+    border-radius: .5em;
+    text-align: center;
+}
+
+.message img {
+    border-radius: .3em;
+}

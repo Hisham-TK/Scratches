@@ -1,0 +1,169 @@
+I decided yesterday to try all the languages currently available, which I can execute the code on an online the interpretation or compiler, so I have written one function in all these languages, which is a multiply two-digit function and return the output results in 24 languages after consideration of 21 documentation reference of these languages.
+
+--------------------
+/*** JavaScript ***/
+--------------------
+multiply=(a,b)=>a*b
+	|| OR ||
+multiply=(...a)=>a.reduce((p,c)=>p*c,1)
+
+----------------
+/*** Python ***/
+----------------
+def multiply(a : int , b : int): return a*b
+	|| OR ||
+multiply = lambda a,b : a*b
+	|| OR ||
+multiply = __import__('operator').mul
+
+********************************************
+F# looks very promising
+------------
+/*** F# ***/
+------------
+let multiply = (*)
+	|| OR ||
+let multiply a b =a*b
+
+-----------
+/*** C ***/
+-----------
+int multiply(int a, int b) {return a*b;}
+
+------------------------
+/*** Objective-C ***/
+------------------------
+int multiply(int a,int b) {return a*b;}
+
+----------------------
+/*** CoffeeScript ***/
+----------------------
+multiply=(a,b)->a*b
+
+------------
+/*** C# ***/
+------------
+public class CustomMath {
+    public static int multiply(int a,int b)=>a*b;
+}
+
+--------------
+/*** Java ***/
+--------------
+public class Multiply {
+    public static Double multiply(Double a, Double b) {
+        return a*b;
+    }
+}
+
+------------
+/*** Go ***/
+------------
+package multiply
+func Multiply(a, b int) int {return a*b}
+
+-------------
+/*** PHP ***/
+-------------
+function multiply($a, $b) {return $a * $b;}
+
+--------------------
+/*** TypeScript ***/
+--------------------
+export const multiply=(a:number,b:number):number=>a*b;
+
+---------------
+/*** Swift ***/
+---------------
+let multiply:(Double, Double)->Double={$0*$1}
+
+------------------
+/*** Solidity ***/
+------------------
+pragma solidity ^0.4.13;
+contract DummyToken {
+  function multiply(int a, int b) returns (int) {
+    return a*b;
+  }
+}
+
+---------------
+/*** Dart ***/
+---------------
+int multiply(int a, int b) {return a*b;}
+
+----------------
+/*** Groovy ***/
+----------------
+class Multiply {
+  static multiply(a,b) {a*b}
+}
+
+-----------
+/*** R ***/
+-----------
+mul <- function(a,b) {a*b}
+
+-----------------
+/*** Haskell ***/
+-----------------
+module Multiply.Bug.Fix where
+multiply :: Int->Int ->Int
+multiply a b = a*b
+
+********************************************
+--------------
+/*** Ruby ***/
+--------------
+def multiply(a, b)
+  a*b
+end
+
+-----------------
+/*** Crystal ***/
+-----------------
+def multiply(a, b)
+  a*b
+end
+
+----------------
+/*** Elixir ***/
+----------------
+defmodule Multiply do
+  def multiply(a, b) do
+    a*b
+  end
+end
+---------------
+/*** Julia ***/
+---------------
+module Solution
+  export multiply
+  function multiply(a,b)
+    a*b
+  end
+end
+
+********************************************
+-------------
+/*** SQL ***/
+-------------
+SELECT a * b AS total FROM items
+
+********************************************
+--------------------
+/*** Shell/bash ***/
+--------------------
+#!/bin/bash -e
+echo $(($1*$2))
+
+--------------------
+/*** PowerShell ***/
+--------------------
+function Multiply($a, $b) {$a*$b}
+
+********************************************
+--------------
+/*** Rust ***/ 🤢
+--------------
+fn multiply(a:i32,b:i32)->i32{a*b}

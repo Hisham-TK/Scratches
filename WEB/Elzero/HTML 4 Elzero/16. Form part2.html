@@ -1,0 +1,72 @@
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="discription" content="">
+    <style>
+        form,
+        h4 {
+            text-align: center;
+        }
+        
+        form {
+            border: 1px solid;
+        }
+    </style>
+    <script>
+        D = e => document.getElementById(e)
+        reset = () => (D('userName').value = "", D('password').value = "")
+    </script>
+</head>
+
+<body>
+    <form name="register" action="" method="GET">
+
+        <label for="userName"><h4>Login form</h3></label>
+        <label for="userName">Username</label>
+        <input id="userName" name="userName" type="text" placeholder="">
+
+        <br>
+        <label for="password">Password</label>
+        <input id="password" name="password" type="password">
+
+        <br>
+        <input id="rememberMe" type="checkbox">
+        <label for="rememberMe"> Remember me</label>
+
+
+        <br>
+        <label for="">Choose file</label>
+        <input type="file">
+
+        <br>
+        <input type="image" src="http://placehold.it/100/100" name="" id="" type="submit">
+
+        <br>
+        <!-- use to send value to backend but user don't see it -->
+        <input type="hidden" value="testing" name="">
+
+        <label for="">Choose you're browser</label>
+        <br>
+        <input type="radio" name="browser" value="Chrome"> Google Chrome
+        <input type="radio" name="browser" value="Firefox"> Firefox
+        <input type="radio" name="browser" value="Opera"> Opera
+        <input type="radio" name="browser" value="Safari"> Safari
+        <br>
+
+        <br>
+        <label for="">Choose you're mobile</label>
+        <br>
+        <input type="radio" name="mobile" value="Chrome"> Samsung
+        <input type="radio" name="mobile" value="Firefox"> Blackberry
+        <input type="radio" name="mobile" value="Opera"> Nokia
+
+        <br>
+        <input type="button" onclick="reset()" id="resetButton" value="My Reset">
+        <input type="reset">
+        <input type="submit" value="Login">
+
+    </form>
+</body>
+
+</html>

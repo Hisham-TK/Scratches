@@ -1,0 +1,89 @@
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="discription" content="introduction to Table">
+    <style>
+        table,
+        th,
+        td {
+            border: 1px solid;
+            text-align: center;
+        }
+        
+        table {
+            width: 500px;
+        }
+    </style>
+    <script></script>
+</head>
+
+<table>
+    <caption>Discripe colspan in Table</caption>
+    <tr>
+        <th colspan="2">Back-End</th>
+        <th colspan="3">Front-End</th>
+    </tr>
+    <tr>
+        <td>PHP</td>
+        <td>MySQL
+        </td>
+        <td>HTML</td>
+        <td>CSS</td>
+        <td>JAvaScript</td>
+    </tr>
+</table>
+<br>
+
+<table>
+    <caption>Discrpe rowspan in Table</caption>
+    <tr>
+        <td>Name</td>
+        <td>E-mail</td>
+    </tr>
+    <tr>
+        <td>Ahmed</td>
+        <td>A@e.e</td>
+    </tr>
+    <tr>
+        <td rowspan="3">Hisham</td>
+        <td>H1@e.e</td>
+    </tr>
+    <tr>
+        <td>H2@e.e</td>
+    </tr>
+    <tr>
+        <td>H3@e.e</td>
+    </tr>
+</table>
+
+<br>
+
+<table>
+    <caption>Discripe the colgroup</caption>
+    <colgroup>
+        <col span="2" style="background-color:rgb(235, 225, 225)">
+        <col span="2" style="background-color:rgb(187, 175, 175)">
+        <col span="1" style="background-color:rgb(199, 163, 163)">
+    </colgroup>
+    <tr>
+        <th>Back-End</th>
+        <th>Back-End</th>
+        <th>Front-End</th>
+        <th>Front-End</th>
+        <th>Front-End</th>
+    </tr>
+    <tr>
+        <td>PHP</td>
+        <td>MySQL
+        </td>
+        <td>HTML</td>
+        <td>CSS</td>
+        <td>JAvaScript</td>
+    </tr>
+</table>
+
+<body>
+</body>
+
+</html>

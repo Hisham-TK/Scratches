@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Sudoku 4x4</title>
+    <script src="scripts/script.js"></script>
+    <link rel="stylesheet" href="styles/style.css">
+</head>
+
+<body>
+
+<p style="display: none" class="message"></p>
+<span class="hidden">
+    <audio src="audio/win.mp3"></audio>
+</span>
+
+<div class="prompt">
+    <h1>Ready to start?</h1>
+    <button value="y">Yes</button>
+    <button value="n">No</button>
+</div>
+
+<div id="game" style="display: none">
+    <div> <!--Timer-->
+        <span>00</span> &nbsp; : &nbsp; <span>00</span>
+    </div>
+    <table> <!--Game-->
+        <tbody></tbody>
+    </table>
+</div>
+
+</body>
+</html>
