@@ -1,7 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/OMAC/M2/5-3.js" line="16" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="f48db70d-fce2-4eab-9de2-502081e4cda2" name="Default Changelist" comment="" />
+    <list default="true" id="f48db70d-fce2-4eab-9de2-502081e4cda2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/1-8/7/Consecutive letters.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1-8/7/Sort by Last Character.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1-8/7/binaryToString.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1-8/7/count argments.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1-8/7/md5PasswordHashes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OMAC/M2/3-5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OMAC/M2/3-6.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OMAC/M2/3-7.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OMAC/M2/3-8.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OMAC/M2/3-9.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OMAC/M2/4-1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OMAC/M2/4-2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OMAC/M2/4-3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OMAC/M2/4-4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OMAC/M2/4-5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OMAC/M2/4-6.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OMAC/M2/4-7.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OMAC/M2/4-8.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OMAC/M2/5-3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OMAC/M2/5-4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OMAC/M2/5-5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OMAC/M2/5-6.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OMAC/M2/6-10.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OMAC/M2/6-8.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OMAC/M2/is.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OMAC/M2/s.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-8/6/Longest Consec.js" beforeDir="false" afterPath="$PROJECT_DIR$/1-8/6/Longest Consec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-8/6/Narcissistic number.js" beforeDir="false" afterPath="$PROJECT_DIR$/1-8/6/Narcissistic number.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-8/7/Add binary.js" beforeDir="false" afterPath="$PROJECT_DIR$/1-8/7/Add binary.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-8/7/Alphabet war.js" beforeDir="false" afterPath="$PROJECT_DIR$/1-8/7/Alphabet war.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-8/7/Balanced Num.js" beforeDir="false" afterPath="$PROJECT_DIR$/1-8/7/Balanced Num.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-8/7/Vowel harmony.js" beforeDir="false" afterPath="$PROJECT_DIR$/1-8/7/Vowel harmony.js" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -11,47 +48,94 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="-965548239">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="1" />
-          <entry key="project.open.time.2" value="1" />
-          <entry key="project.opened" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="js" value="15" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="JavaScript" value="15" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="js" value="3364" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JavaScript" value="3363" />
-          <entry key="RegExp" value="1" />
-        </counts>
-      </usages-collector>
-    </session>
+  <component name="FavoritesManager">
+    <favorites_list name="JavaScript" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/1-8/7/Auth List.js">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/OMAC/M2/6-10.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="130">
-              <caret line="3" column="84" lean-forward="true" selection-start-line="3" selection-start-column="84" selection-end-line="3" selection-end-column="84" />
+            <state relative-caret-position="635">
+              <caret line="27" selection-start-line="27" selection-end-line="28" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/1-8/7/binaryToString.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/1-8/7/Add binary.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="248">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/1-8/7/count argments.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="93">
+              <caret line="3" column="28" lean-forward="true" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/1-8/7/md5PasswordHashes.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="62">
+              <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/1-8/7/Sort by Last Character.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="124">
+              <caret line="4" column="55" lean-forward="true" selection-start-line="4" selection-start-column="55" selection-end-line="4" selection-end-column="55" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/1-8/7/Consecutive letters.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="93">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/1-8/7/Alphabet war.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/1-8/7/Add or Change Url Parameter.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="15" lean-forward="true" selection-start-column="15" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/OMAC/M2/5-6.js">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -67,6 +151,13 @@
     <findStrings>
       <find>Test.assertSimilar</find>
       <find>Test.assertEquals</find>
+      <find>-9</find>
+      <find>-100</find>
+      <find>0 0 0</find>
+      <find>0 0</find>
+      <find>1 1</find>
+      <find>.</find>
+      <find>99 bottles of juice on the wall! 99 bottles of juice! Take one down, pass it around... 98 bottles of juice on the wall!</find>
     </findStrings>
     <replaceStrings>
       <replace>console.log</replace>
@@ -92,22 +183,46 @@
         <option value="$PROJECT_DIR$/1-8/6/Is valid Mexican Phone Number.js" />
         <option value="$PROJECT_DIR$/1-8/6/Stutter.js" />
         <option value="$PROJECT_DIR$/1-8/7/Double check.js" />
+        <option value="$PROJECT_DIR$/OMAC/M2/3-5.js" />
+        <option value="$PROJECT_DIR$/OMAC/M2/3-6.js" />
+        <option value="$PROJECT_DIR$/OMAC/M2/isValid.js" />
+        <option value="$PROJECT_DIR$/OMAC/M2/3-7.js" />
+        <option value="$PROJECT_DIR$/OMAC/M2/3-8.js" />
+        <option value="$PROJECT_DIR$/OMAC/M2/s.js" />
+        <option value="$PROJECT_DIR$/OMAC/M2/is.js" />
+        <option value="$PROJECT_DIR$/OMAC/M2/3-9.js" />
+        <option value="$PROJECT_DIR$/OMAC/M2/4-1.js" />
+        <option value="$PROJECT_DIR$/OMAC/M2/4-2.js" />
+        <option value="$PROJECT_DIR$/OMAC/M2/4-3.js" />
+        <option value="$PROJECT_DIR$/OMAC/M2/4-4.js" />
+        <option value="$PROJECT_DIR$/OMAC/M2/4-5.js" />
+        <option value="$PROJECT_DIR$/OMAC/M2/4-6.js" />
+        <option value="$PROJECT_DIR$/OMAC/M2/4-7.js" />
+        <option value="$PROJECT_DIR$/OMAC/M2/4-8.js" />
+        <option value="$PROJECT_DIR$/OMAC/M2/5-3.js" />
+        <option value="$PROJECT_DIR$/OMAC/M2/5-6.js" />
+        <option value="$PROJECT_DIR$/OMAC/M2/5-4.js" />
+        <option value="$PROJECT_DIR$/OMAC/M2/5-5.js" />
+        <option value="$PROJECT_DIR$/OMAC/M2/6-8.js" />
+        <option value="$PROJECT_DIR$/OMAC/M2/6-10.js" />
+        <option value="$PROJECT_DIR$/1-8/7/binaryToString.js" />
+        <option value="$PROJECT_DIR$/1-8/7/Add binary.js" />
+        <option value="$PROJECT_DIR$/1-8/7/count argments.js" />
+        <option value="$PROJECT_DIR$/1-8/7/md5PasswordHashes.js" />
+        <option value="$PROJECT_DIR$/1-8/7/Sort by Last Character.js" />
+        <option value="$PROJECT_DIR$/1-8/7/Consecutive letters.js" />
       </list>
     </option>
   </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
-  </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="89" />
     <option name="y" value="35" />
     <option name="width" value="1077" />
     <option name="height" value="1087" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -129,7 +244,12 @@
               <item name="JavaScript" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaScript" type="462c0819:PsiDirectoryNode" />
               <item name="1-8" type="462c0819:PsiDirectoryNode" />
-              <item name="6" type="462c0819:PsiDirectoryNode" />
+              <item name="7" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaScript" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaScript" type="462c0819:PsiDirectoryNode" />
+              <item name="OMAC" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -139,11 +259,12 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -157,36 +278,39 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.Double check.js">
-    <configuration name="- Has subpattern 1.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/1-8/6/- Has subpattern 1.js" working-dir="$PROJECT_DIR$/1-8/6">
+  <component name="RunManager" selected="Node.js.Consecutive letters.js">
+    <configuration name="Consecutive letters.js" type="NodeJSConfigurationType" singleton="false" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/1-8/7/Consecutive letters.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="Auth List.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="Auth List.js" working-dir="$PROJECT_DIR$/1-8/7">
+    <configuration name="Sort by Last Character.js" type="NodeJSConfigurationType" singleton="false" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/1-8/7/Sort by Last Character.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="Double check.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="Double check.js" working-dir="$PROJECT_DIR$/1-8/7">
+    <configuration default="true" type="NodeJSConfigurationType" singleton="false" path-to-js-file="OMAC/M2/*.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="Is valid Mexican Phone Number.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="Is valid Mexican Phone Number.js" working-dir="$PROJECT_DIR$/1-8/6">
+    <configuration name="binaryToString.js" type="NodeJSConfigurationType" singleton="false" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/1-8/7/binaryToString.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="Stutter.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="Stutter.js" working-dir="$PROJECT_DIR$/1-8/6">
+    <configuration name="count argments.js" type="NodeJSConfigurationType" singleton="false" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/1-8/7/count argments.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="md5PasswordHashes.js" type="NodeJSConfigurationType" singleton="false" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/1-8/7/md5PasswordHashes.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Node.js.Auth List.js" />
-      <item itemvalue="Node.js.Is valid Mexican Phone Number.js" />
-      <item itemvalue="Node.js.Double check.js" />
-      <item itemvalue="Node.js.Stutter.js" />
-      <item itemvalue="Node.js.- Has subpattern 1.js" />
+      <item itemvalue="Node.js.binaryToString.js" />
+      <item itemvalue="Node.js.count argments.js" />
+      <item itemvalue="Node.js.md5PasswordHashes.js" />
+      <item itemvalue="Node.js.Sort by Last Character.js" />
+      <item itemvalue="Node.js.Consecutive letters.js" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.Double check.js" />
-        <item itemvalue="Node.js.- Has subpattern 1.js" />
-        <item itemvalue="Node.js.Stutter.js" />
-        <item itemvalue="Node.js.Auth List.js" />
-        <item itemvalue="Node.js.Is valid Mexican Phone Number.js" />
+        <item itemvalue="Node.js.Consecutive letters.js" />
+        <item itemvalue="Node.js.Sort by Last Character.js" />
+        <item itemvalue="Node.js.md5PasswordHashes.js" />
+        <item itemvalue="Node.js.count argments.js" />
+        <item itemvalue="Node.js.binaryToString.js" />
       </list>
     </recent_temporary>
   </component>
@@ -201,19 +325,28 @@
       <option name="presentableId" value="Default" />
       <updated>1546841153623</updated>
       <workItem from="1546841155424" duration="29630000" />
+      <workItem from="1554106727815" duration="1178000" />
+      <workItem from="1554107938743" duration="4229000" />
+      <workItem from="1554171596519" duration="599000" />
+      <workItem from="1554509966712" duration="10735000" />
+      <workItem from="1555167455227" duration="3854000" />
+      <workItem from="1555211884674" duration="6281000" />
+      <workItem from="1555529541143" duration="6425000" />
+      <workItem from="1558665709791" duration="852000" />
+      <workItem from="1560043222090" duration="5483000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29630000" />
+    <option name="totallyTimeSpent" value="69266000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="89" y="35" width="1077" height="1087" extended-state="0" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
     <layout>
-      <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.22307692" />
+      <window_info id="Favorites" order="0" side_tool="true" weight="0.32982087" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.10590095" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Quokka" />
       <window_info anchor="bottom" id="Tool Output" order="0" />
       <window_info anchor="bottom" id="ANTLR Preview" order="1" />
       <window_info anchor="bottom" id="Terminal" order="2" />
@@ -221,22 +354,21 @@
       <window_info anchor="bottom" id="Version Control" order="4" />
       <window_info anchor="bottom" id="Docker" order="5" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="6" />
-      <window_info anchor="bottom" id="Find" order="7" />
-      <window_info anchor="bottom" id="Run" order="8" weight="0.38322717" />
+      <window_info anchor="bottom" id="Find" order="7" weight="0.32977587" />
+      <window_info anchor="bottom" id="Run" order="8" weight="0.45891142" />
       <window_info anchor="bottom" id="Debug" order="9" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="12" />
+      <window_info anchor="bottom" id="Regex Tester" order="13" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Mongo Explorer" order="3" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/1-8/7/Gym slang.js">
@@ -330,10 +462,248 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/OMAC/M2/3-5.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="53" selection-start-line="53" selection-end-line="53" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OMAC/M2/3-6.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="356">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OMAC/M2/isValid.js" />
     <entry file="file://$PROJECT_DIR$/1-8/7/Auth List.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="3" column="84" lean-forward="true" selection-start-line="3" selection-start-column="84" selection-end-line="3" selection-end-column="84" />
+        <state relative-caret-position="93">
+          <caret line="3" column="84" selection-start-line="3" selection-start-column="84" selection-end-line="3" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OMAC/M2/3-8.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="403">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OMAC/M2/3-7.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="620">
+          <caret line="28" column="1" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OMAC/M2/s.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1736">
+          <caret line="56" column="34" selection-start-line="56" selection-start-column="34" selection-end-line="56" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OMAC/M2/is.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="31">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OMAC/M2/3-9.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1581">
+          <caret line="51" column="71" selection-start-line="51" selection-start-column="71" selection-end-line="51" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OMAC/M2/4-1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OMAC/M2/4-2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OMAC/M2/4-3.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OMAC/M2/4-4.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OMAC/M2/4-5.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OMAC/M2/4-6.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OMAC/M2/4-7.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OMAC/M2/4-8.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OMAC/M2/5-3.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="372">
+          <caret line="14" selection-start-line="14" selection-end-line="20" selection-end-column="1" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OMAC/M2/5-4.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OMAC/M2/5-5.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="21" selection-start-column="21" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OMAC/M2/6-8.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="6" selection-start-line="6" selection-end-line="10" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OMAC/M2/5-6.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OMAC/M2/6-10.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="635">
+          <caret line="27" selection-start-line="27" selection-end-line="28" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1-8/7/binaryToString.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1-8/7/Add or Change Url Parameter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="15" lean-forward="true" selection-start-column="15" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1-8/7/Alphabet war.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1-8/7/Add binary.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1-8/7/count argments.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="93">
+          <caret line="3" column="28" lean-forward="true" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1-8/7/md5PasswordHashes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="62">
+          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1-8/7/Sort by Last Character.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="4" column="55" lean-forward="true" selection-start-line="4" selection-start-column="55" selection-end-line="4" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1-8/7/Consecutive letters.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="93">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>

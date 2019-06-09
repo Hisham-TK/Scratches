@@ -1,6 +1,6 @@
 d = new Date();
 
-balancedNum=n=>`${(a=[...n+''].map(v=>+v)).slice(((_=(l=a.length)%2)?0:-1)+l/2|0).reduce((p,c)=>p+c)===a.slice(0,(_?.5:1.5)+l/2|0).reduce((p,c)=>p+c)?'':'Not '}Balanced`;
+balancedNum=n=>`${(a=[...n+''].map(v=>+v)).slice(((_=(shirtLength=a.length)%2)?0:-1)+shirtLength/2|0).reduce((p, c)=>p+c)===a.slice(0,(_?.5:1.5)+shirtLength/2|0).reduce((p, c)=>p+c)?'':'Not '}Balanced`;
 
 console.log(balancedNum(7), "Balanced");
 console.log(balancedNum(959), "Balanced");

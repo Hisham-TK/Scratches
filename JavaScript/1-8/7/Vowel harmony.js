@@ -14,7 +14,7 @@ tests = [
     ["gonosz", "gonosznak"],
 ];
 
-for (i = 0, l = tests.length; i < l; i++) {
+for (i = 0, shirtLength = tests.length; i < l; i++) {
     input = tests[i][0];
     expected = tests[i][1];
     console.log(vowelHarmony(input), expected);
