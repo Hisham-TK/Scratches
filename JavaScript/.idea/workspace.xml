@@ -11,45 +11,85 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="-965548239">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="1" />
-          <entry key="project.open.time.2" value="1" />
-          <entry key="project.opened" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="js" value="15" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="JavaScript" value="15" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="js" value="3364" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JavaScript" value="3363" />
-          <entry key="RegExp" value="1" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/1-8/7/Auth List.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="130">
-              <caret line="3" column="84" lean-forward="true" selection-start-line="3" selection-start-column="84" selection-end-line="3" selection-end-column="84" />
+            <state relative-caret-position="184">
+              <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/1-8/7/Consecutive letters.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="92">
+              <caret line="4" column="48" selection-start-line="4" selection-end-line="4" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/1-8/7/Odds Index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="46">
+              <caret line="2" selection-start-line="2" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/1-8/7/All sum of three and five.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="92">
+              <caret line="4" column="51" selection-start-line="4" selection-start-column="51" selection-end-line="5" selection-end-column="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/1-8/7/flatten and sort array.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="46">
+              <caret line="2" selection-start-line="2" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/1-8/7/longiest prefix and subfix.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="138">
+              <caret line="4" selection-start-line="4" selection-end-line="4" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/1-8/7/even numbers.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="69">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/1-8/7/untimate reverser.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="23">
+              <caret line="1" column="30" selection-start-line="1" selection-start-column="30" selection-end-line="1" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/1-8/7/Sort by Last Char.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="46">
+              <caret line="2" column="56" selection-start-line="2" selection-start-column="56" selection-end-line="2" selection-end-column="56" />
             </state>
           </provider>
         </entry>
@@ -67,6 +107,7 @@
     <findStrings>
       <find>Test.assertSimilar</find>
       <find>Test.assertEquals</find>
+      <find>`</find>
     </findStrings>
     <replaceStrings>
       <replace>console.log</replace>
@@ -92,20 +133,22 @@
         <option value="$PROJECT_DIR$/1-8/6/Is valid Mexican Phone Number.js" />
         <option value="$PROJECT_DIR$/1-8/6/Stutter.js" />
         <option value="$PROJECT_DIR$/1-8/7/Double check.js" />
+        <option value="$PROJECT_DIR$/1-8/7/Consecutive letters.js" />
+        <option value="$PROJECT_DIR$/1-8/7/Sort by Last Char.js" />
+        <option value="$PROJECT_DIR$/1-8/7/Odds Index.js" />
+        <option value="$PROJECT_DIR$/1-8/7/All sum of three and five.js" />
+        <option value="$PROJECT_DIR$/1-8/7/flatten and sort array.js" />
+        <option value="$PROJECT_DIR$/1-8/7/longiest prefix and subfix.js" />
+        <option value="$PROJECT_DIR$/1-8/7/even numbers.js" />
+        <option value="$PROJECT_DIR$/1-8/7/untimate reverser.js" />
       </list>
     </option>
   </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
-  </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="89" />
     <option name="y" value="35" />
     <option name="width" value="1077" />
-    <option name="height" value="1087" />
+    <option name="height" value="788" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -113,6 +156,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -129,13 +173,12 @@
               <item name="JavaScript" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaScript" type="462c0819:PsiDirectoryNode" />
               <item name="1-8" type="462c0819:PsiDirectoryNode" />
-              <item name="6" type="462c0819:PsiDirectoryNode" />
+              <item name="7" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -143,6 +186,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
   <component name="RunDashboard">
@@ -157,36 +201,36 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.Double check.js">
-    <configuration name="- Has subpattern 1.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/1-8/6/- Has subpattern 1.js" working-dir="$PROJECT_DIR$/1-8/6">
+  <component name="RunManager" selected="Node.js.untimate reverser.js">
+    <configuration name="All sum of three and five.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/1-8/7/All sum of three and five.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="Auth List.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="Auth List.js" working-dir="$PROJECT_DIR$/1-8/7">
+    <configuration name="even numbers.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/1-8/7/even numbers.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="Double check.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="Double check.js" working-dir="$PROJECT_DIR$/1-8/7">
+    <configuration name="flatten and sort array.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/1-8/7/flatten and sort array.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="Is valid Mexican Phone Number.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="Is valid Mexican Phone Number.js" working-dir="$PROJECT_DIR$/1-8/6">
+    <configuration name="longiest prefix and subfix.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/1-8/7/longiest prefix and subfix.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="Stutter.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="Stutter.js" working-dir="$PROJECT_DIR$/1-8/6">
+    <configuration name="untimate reverser.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/1-8/7/untimate reverser.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Node.js.Auth List.js" />
-      <item itemvalue="Node.js.Is valid Mexican Phone Number.js" />
-      <item itemvalue="Node.js.Double check.js" />
-      <item itemvalue="Node.js.Stutter.js" />
-      <item itemvalue="Node.js.- Has subpattern 1.js" />
+      <item itemvalue="Node.js.All sum of three and five.js" />
+      <item itemvalue="Node.js.flatten and sort array.js" />
+      <item itemvalue="Node.js.longiest prefix and subfix.js" />
+      <item itemvalue="Node.js.even numbers.js" />
+      <item itemvalue="Node.js.untimate reverser.js" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.Double check.js" />
-        <item itemvalue="Node.js.- Has subpattern 1.js" />
-        <item itemvalue="Node.js.Stutter.js" />
-        <item itemvalue="Node.js.Auth List.js" />
-        <item itemvalue="Node.js.Is valid Mexican Phone Number.js" />
+        <item itemvalue="Node.js.untimate reverser.js" />
+        <item itemvalue="Node.js.even numbers.js" />
+        <item itemvalue="Node.js.longiest prefix and subfix.js" />
+        <item itemvalue="Node.js.flatten and sort array.js" />
+        <item itemvalue="Node.js.All sum of three and five.js" />
       </list>
     </recent_temporary>
   </component>
@@ -201,18 +245,20 @@
       <option name="presentableId" value="Default" />
       <updated>1546841153623</updated>
       <workItem from="1546841155424" duration="29630000" />
+      <workItem from="1560117328425" duration="5944000" />
+      <workItem from="1560286350177" duration="8692000" />
+      <workItem from="1560396932418" duration="6901000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29630000" />
+    <option name="totallyTimeSpent" value="51167000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="89" y="35" width="1077" height="1087" extended-state="0" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.22307692" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.13928841" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Tool Output" order="0" />
       <window_info anchor="bottom" id="ANTLR Preview" order="1" />
@@ -222,7 +268,7 @@
       <window_info anchor="bottom" id="Docker" order="5" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="6" />
       <window_info anchor="bottom" id="Find" order="7" />
-      <window_info anchor="bottom" id="Run" order="8" weight="0.38322717" />
+      <window_info anchor="bottom" id="Run" order="8" weight="0.4592" />
       <window_info anchor="bottom" id="Debug" order="9" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
@@ -230,13 +276,11 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="JSON Utils" order="3" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/1-8/7/Gym slang.js">
@@ -332,8 +376,64 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/1-8/7/Auth List.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="3" column="84" lean-forward="true" selection-start-line="3" selection-start-column="84" selection-end-line="3" selection-end-column="84" />
+        <state relative-caret-position="184">
+          <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1-8/7/Consecutive letters.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="48" selection-start-line="4" selection-end-line="4" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1-8/7/Odds Index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" selection-start-line="2" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1-8/7/All sum of three and five.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="51" selection-start-line="4" selection-start-column="51" selection-end-line="5" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1-8/7/flatten and sort array.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" selection-start-line="2" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1-8/7/Sort by Last Char.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="56" selection-start-line="2" selection-start-column="56" selection-end-line="2" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1-8/7/longiest prefix and subfix.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="4" selection-start-line="4" selection-end-line="4" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1-8/7/even numbers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1-8/7/untimate reverser.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" column="30" selection-start-line="1" selection-start-column="30" selection-end-line="1" selection-end-column="30" />
         </state>
       </provider>
     </entry>

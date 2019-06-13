@@ -8,7 +8,7 @@
 //     }
 //     return false
 // };
-hasSubpattern=s=>s.replace(new RegExp([...new Set(s)].sort().join``,'g'),'')
+hasSubpattern=s=>s.replace(new RegExp([...new Set(s)].sort().join``,'g'),'');
 
 console.log(hasSubpattern("a"), false);
 console.log(hasSubpattern("aaaa"), true);
