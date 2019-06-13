@@ -10,4 +10,4 @@
 // var calendar = new ChristmasCalendar();
 // console.log(calendar.openDoor(24));
 
-console.log(Object.keys({name:'hisham',age:25}) )
+console.log(Object.keys({name:'hisham',age:25}) );

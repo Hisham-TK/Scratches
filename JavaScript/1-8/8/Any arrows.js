@@ -1,4 +1,4 @@
-anyArrows=a=>a.some(v=>!v.damaged)
+anyArrows=a=>a.some(v=>!v.damaged);
 
 console.log(anyArrows([]), false, "Should handle empty quiver");
 console.log(anyArrows([{range: 5}, {range: 10, damaged: true}, {damaged: true}]), true, "Should handle quiver with undamaged arrows");

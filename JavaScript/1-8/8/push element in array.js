@@ -1,3 +1,3 @@
 var websites = [];
-websites.push('codewars')
-websites[0]='codewars'
+websites.push('codewars');
+websites[0]='codewars';

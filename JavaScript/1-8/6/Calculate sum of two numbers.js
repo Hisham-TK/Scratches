@@ -1,6 +1,6 @@
 d = new Date();
 
-add=(x,y)=>x>>1
+add=(x,y)=>x>>1;
 
 console.log(add(1, 2), 3);
 console.log(add(5, 19), 24);

@@ -1,6 +1,6 @@
 ヒシャム = new Date();
 
-testit=(a,b)=>[a%2, b%2, a/b, b/a, a*b, a+b]
+testit=(a,b)=>[a%2, b%2, a/b, b/a, a*b, a+b];
 testit=(a,b)=>a%2&&b%2?a*b:a+b+(b/a%1?0:(a&&b?- b-a:0));
 
 //a+b?

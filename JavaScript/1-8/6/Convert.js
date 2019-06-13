@@ -30,5 +30,5 @@ console.log(convert("1010", bin, dec), '10', '"1010" bin -> dec');
 console.log(convert("1010", bin, hex), 'a', '"1010" bin -> hex');
 console.log(convert("0", dec, alpha), 'a', '"0" dec -> alpha');
 console.log(convert("27", dec, allow), 'bb', '"27" dec -> alpha_lower');
-console.log(convert("hello", allow, hex), '320048', '"hello" alpha_lower -> hex')
+console.log(convert("hello", allow, hex), '320048', '"hello" alpha_lower -> hex');
 console.log(convert("SAME", alup, alup), 'SAME', '"SAME" alpha_upper -> alpha_upper');

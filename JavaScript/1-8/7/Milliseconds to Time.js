@@ -1,7 +1,7 @@
 ヒシャム = new Date();
 
 toString=m=>[...m<36e5?[m/6e4|0]:[m/36e5|0,m/6e4%60|0],m/1e3%60|0].map((v,i)=>i?`${v}`.padStart(2,0):v).join`:`;
-toString=m=>/(\d\d:?){3}/.exec(`${new Date(m)}`)[0].replace(/(\d\d):/,x=>(+x))
+toString=m=>/(\d\d:?){3}/.exec(`${new Date(m)}`)[0].replace(/(\d\d):/,x=>(+x));
 // toString=m=>`${new Date(m)}`
 
 console.log(toString(1), "0:00");

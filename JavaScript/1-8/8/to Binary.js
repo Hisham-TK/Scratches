@@ -1,4 +1,4 @@
-toBinary=n=>+n.toString(2)
+toBinary=n=>+n.toString(2);
 
 console.log(toBinary(1), 1);
 console.log(toBinary(2), 10);

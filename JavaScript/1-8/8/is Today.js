@@ -1,4 +1,4 @@
-isToday=d=>d.toDateString()===new Date().toDateString()
+isToday=d=>d.toDateString()===new Date().toDateString();
 
 var tomorrow = new Date();
 tomorrow.setDate(tomorrow.getDate() + 1);
