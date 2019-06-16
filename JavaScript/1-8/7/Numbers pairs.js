@@ -9,4 +9,4 @@ console.log(pairs([81, 44, 80, 26, 12, 27, -34, 37, -35]),0);
 console.log(pairs([-55, -56, -7, -6, 56, 55, 63, 62]),4);
 console.log(pairs([73, 72, 8, 9, 73, 72]),3);
 
-console.log(`${(new Date() - ヒシャム) / 1000} second`);
+console.log(`${(new Date() - ヒシャム) / 1000} Seconds`);

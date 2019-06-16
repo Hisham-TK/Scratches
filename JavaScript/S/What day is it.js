@@ -10,4 +10,4 @@ console.log(whatDay('1-1-1'), 'Monday');
 console.log(whatDay('2020-2-20'), 'Thursday');
 console.log(whatDay('1111-1-11'), 'Wednesday');
 
-console.log(`${(new Date() - ヒシャム) / 1000} second`);
+console.log(`${(new Date() - ヒシャム) / 1000} Seconds`);

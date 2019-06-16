@@ -13,4 +13,4 @@ console.log(gymSlang("Going to feel like a new gym member"), "Gonna feel like a 
 console.log(gymSlang("wait what was my lock combination"), "wait what was my lock combo");
 console.log(gymSlang("that skinny girl can probably outlift me now"), "that skinny girl can prolly outlift me now");
 
-console.log(`${(new Date() - ヒシャム) / 1000} second`);
+console.log(`${(new Date() - ヒシャム) / 1000} Seconds`);

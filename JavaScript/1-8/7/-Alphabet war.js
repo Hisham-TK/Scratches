@@ -10,4 +10,4 @@ console.log( alphabetWar("zzzzs"), "Right side wins!" );
 console.log( alphabetWar("rbpbkuqzdq"), "Right side wins!" );
 console.log( alphabetWar("wwwwww"), "Left side wins!" );
 
-console.log(`${(new Date() - ヒシャム) / 1000} second`);
+console.log(`${(new Date() - ヒシャム) / 1000} Seconds`);

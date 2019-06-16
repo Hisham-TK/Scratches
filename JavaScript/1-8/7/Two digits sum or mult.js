@@ -14,4 +14,4 @@ console.log(testit(1,3), 3);
 console.log(testit(11,22), 31);
 console.log(testit(53,86), 119);
 
-console.log(`${(new Date() - ヒシャム) / 1000} second`);
+console.log(`${(new Date() - ヒシャム) / 1000} Seconds`);

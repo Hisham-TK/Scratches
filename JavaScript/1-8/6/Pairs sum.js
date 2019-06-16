@@ -13,4 +13,4 @@ solve=n=>Math.max(...[...Array(100).keys()].map((v,i)=>(r=n=>[...`${n}`].reduce(
 // console.log(solve(7019),35);
 console.log(solve(15569047737),144);
 
-console.log(`${(new Date() - ヒシャム) / 1000} second`);
+console.log(`${(new Date() - ヒシャム) / 1000} Seconds`);

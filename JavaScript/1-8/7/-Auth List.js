@@ -10,4 +10,4 @@ console.log(authList(['']), false);
 console.log(authList(['123456']), false);
 console.log(authList(['abcdef']), false);
 
-console.log(`${(new Date() - ヒシャム) / 1000} second`);
+console.log(`${(new Date() - ヒシャム) / 1000} Seconds`);

@@ -34,4 +34,4 @@ console.log(stringMerge('a String', 'a', 'a')==='a');
 console.log(stringMerge('a', 'a', 'a')==='a');
 
 
-console.log(`${(new Date() - ヒシャム) / 1000} second`);
+console.log(`${(new Date() - ヒシャム) / 1000} Seconds`);

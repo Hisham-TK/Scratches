@@ -8,4 +8,4 @@ console.log(problem(''), "Error");
 console.log(problem(' '), "Error");
 console.log(problem("hello"), "Error");
 
-console.log(`${(new Date() - ヒシャム) / 1000} second`);
+console.log(`${(new Date() - ヒシャム) / 1000} Seconds`);

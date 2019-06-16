@@ -11,4 +11,4 @@ console.log(toUnderscore('ThisIsBeautifulDay'),'this_is_beautiful_day');
 console.log(toUnderscore('My3CodeIs4TimesBetter'),'my3_code_is4_times_better');
 console.log(toUnderscore(1),'1');
 
-console.log(`${(new Date() - ヒシャム) / 1000} second`);
+console.log(`${(new Date() - ヒシャム) / 1000} Seconds`);

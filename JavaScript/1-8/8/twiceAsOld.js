@@ -8,4 +8,4 @@ console.log(twiceAsOld(42, 21), 0);
 console.log(twiceAsOld(22, 1), 20);
 console.log(twiceAsOld(29, 0), 29);
 
-console.log(`${(new Date() - ヒシャム) / 1000} second`);
+console.log(`${(new Date() - ヒシャム) / 1000} Seconds`);

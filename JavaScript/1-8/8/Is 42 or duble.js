@@ -8,4 +8,4 @@ console.log(what_is(-1), 'nothing');
 console.log(what_is(42), 'everything');
 console.log(what_is(42 * 42), 'everything squared');
 
-console.log(`${(new Date() - ヒシャム) / 1000} second`);
+console.log(`${(new Date() - ヒシャム) / 1000} Seconds`);

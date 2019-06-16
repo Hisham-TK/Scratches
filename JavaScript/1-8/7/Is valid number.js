@@ -18,4 +18,4 @@ console.log(validNumber("w.00"),false);
 console.log(validNumber("..00"),false);
 console.log(validNumber("1,00"),false);
 
-console.log(`${(new Date() - ヒシャム) / 1000} second`);
+console.log(`${(new Date() - ヒシャム) / 1000} Seconds`);

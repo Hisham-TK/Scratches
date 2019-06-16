@@ -17,4 +17,4 @@ console.log(commas(-169234729737.898), "-169,234,729,737.898");
 console.log(commas(1000000000.23), "1,000,000,000.23");
 console.log(commas(1000000000.2), "1,000,000,000.2");
 
-console.log(`${(new Date() - ヒシャム) / 1000} second`);
+console.log(`${(new Date() - ヒシャム) / 1000} Seconds`);

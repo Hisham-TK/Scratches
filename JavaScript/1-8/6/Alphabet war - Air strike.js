@@ -15,4 +15,4 @@ console.log(alphabetWar("t**mr"), "Let's fight again!");
 console.log(alphabetWar("x**pv*m"), "Let's fight again!");
 
 
-console.log(`${(new Date() - ヒシャム) / 1000} second`);
+console.log(`${(new Date() - ヒシャム) / 1000} Seconds`);

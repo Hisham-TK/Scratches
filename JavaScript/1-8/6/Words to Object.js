@@ -12,4 +12,4 @@ console.log(wordsToObject('1 1 2 2 3 3 4 4'),'[{name : \'1\', id : \'1\'}, {name
 console.log(wordsToObject('#@&fhds 123F3f 2vn2# 2%y6D @%fd3 @!#4fs W@R^g WE56h%'),'[{name : \'#@&fhds\', id : \'123F3f\'}, {name : \'2vn2#\', id : \'2%y6D\'}, {name : \'@%fd3\', id : \'@!#4fs\'}, {name : \'W@R^g\', id : \'WE56h%\'}]');
 console.log(wordsToObject('$e\'{ ^wH3JD1qi; LV <uy Uv1|g%H >)DkP Sa/-W~#+%X ,A~X a,3! jWKe m #r3Y<'),'[{name : \'$e\'{\', id : \'^wH3JD1qi;\'}, {name : \'LV\', id : \'<uy\'}, {name : \'Uv1|g%H\', id : \'>)DkP\'}, {name : \'Sa/-W~#+%X\', id : \',A~X\'}, {name : \'a,3!\', id : \'jWKe\'}, {name : \'m\', id : \'#r3Y<\'}]');
 
-console.log(`${(new Date() - ヒシャム) / 1000} second`);
+console.log(`${(new Date() - ヒシャム) / 1000} Seconds`);

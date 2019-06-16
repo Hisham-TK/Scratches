@@ -15,4 +15,4 @@ console.log(solve("aaa","aa"), false);
 console.log(solve("aaa*","aa"), false);
 console.log(solve("*","codewars"),true);
 
-console.log(`${(new Date() - ヒシャム) / 1000} second`);
+console.log(`${(new Date() - ヒシャム) / 1000} Seconds`);

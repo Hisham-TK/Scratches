@@ -11,4 +11,4 @@ console.log(encryptNum("11-211-458-7851"), false);
 // CASE 2: 0039 <separator> ### <separator> ### <separator> ####
 // CASE 3: 1 <separator> ### <separator> ### <separator> ####
 
-console.log(`${(new Date() - ヒシャム) / 1000} second`);
+console.log(`${(new Date() - ヒシャム) / 1000} Seconds`);

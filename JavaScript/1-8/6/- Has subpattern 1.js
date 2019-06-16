@@ -21,4 +21,4 @@ console.log(hasSubpattern("abbaabbaabba"), true);
 console.log(hasSubpattern("abbabbabba"), false);
 console.log(hasSubpattern("abcdabcabcd"), false);
 
-console.log(`${(new Date() - ヒシャム) / 1000} second`);
+console.log(`${(new Date() - ヒシャム) / 1000} Seconds`);

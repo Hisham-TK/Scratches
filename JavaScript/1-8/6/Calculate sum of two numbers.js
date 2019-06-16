@@ -1,4 +1,4 @@
-d = new Date();
+ヒシャム = new Date();
 
 add=(x,y)=>x>>1;
 
@@ -12,4 +12,4 @@ console.log(add(-13, 13), 0);
 console.log(add(-27, 18), -9);
 console.log(add(-90, 30), -60);
 
-console.log(`${(new Date() - d) / 1000} second`);
+console.log(`${(new Date() - ヒシャム) / 1000} Seconds`);

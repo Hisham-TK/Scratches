@@ -1,5 +1,5 @@
 ヒシャム = new Date();
-ultimateReverse = a => a.map(_=>[..._].map((v,i2)=>[...a.join``].reverse()[]))
+ultimateReverse = a => a.map(_=>[..._].map((v,i2)=>[...a.join``].reverse()[]));
 
 console.log(
     ultimateReverse(["I", "like", "big", "butts", "and", "I", "cannot", "lie!"]),
@@ -14,4 +14,4 @@ console.log(
     ["How", "many", "shrimp", "do", "you", "have", "to", "eat",
         "before", "your", "skin", "starts", "to", "turn", "pink?"]
 );
-console.log(`${(new Date() - ヒシャム) / 1000} second`);
+console.log(`${(new Date() - ヒシャム) / 1000} Seconds`);

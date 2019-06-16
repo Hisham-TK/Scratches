@@ -1,4 +1,4 @@
-d = new Date();
+ヒシャム = new Date();
 
 isValidWalk=a=>a.length==1e1&&!a.join``.replace(/ns|sn|we|ew/g,'');
 
@@ -8,4 +8,4 @@ console.log(isValidWalk(['w']), 'should return false');
 console.log(isValidWalk(['n','n','n','s','n','s','n','s','n','s']), 'should return false');
 
 
-console.log(`${(new Date() - d) / 1000} second`);
+console.log(`${(new Date() - ヒシャム) / 1000} Seconds`);

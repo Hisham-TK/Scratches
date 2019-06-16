@@ -18,4 +18,4 @@ console.log(true.toString(), "true");
 console.log(false.toString(), "false");
 console.log([1,2,3,4,5].toString().replace(/\s+/g, ""), "[1,2,3,4,5]");
 
-console.log(`${(new Date() - ヒシャム) / 1000} second`);
+console.log(`${(new Date() - ヒシャム) / 1000} Seconds`);

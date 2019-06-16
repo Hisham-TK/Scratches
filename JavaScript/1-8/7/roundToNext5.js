@@ -10,4 +10,4 @@ console.log(roundToNext5(5));
 console.log(roundToNext5(6));
 console.log(roundToNext5(-6));
 
-console.log(`${(new Date() - ヒシャム) / 1000} second`);
+console.log(`${(new Date() - ヒシャム) / 1000} Seconds`);

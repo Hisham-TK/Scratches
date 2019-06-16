@@ -10,4 +10,4 @@ console.log(spinWords("You are almost to the last test"), "You are tsomla to the
 console.log(spinWords("Just kidding there is still one more"), "Just gniddik ereht is llits one more");
 console.log(spinWords("Seriously this is the last one"), "ylsuoireS this is the last one");
 
-console.log(`${(new Date() - ヒシャム) / 1000} second`);
+console.log(`${(new Date() - ヒシャム) / 1000} Seconds`);

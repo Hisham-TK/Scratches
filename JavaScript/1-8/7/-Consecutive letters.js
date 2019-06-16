@@ -1,8 +1,6 @@
 ヒシャム = new Date();
 
-<<<<<<< HEAD
-solve=s=>[...s].sort((a,b)=>a>b).map(v=>v.charCodeAt()).reduce((p,c,i,a)=>p+=c+1==a[i+1],1)==s.length
-=======
+solve=s=>[...s].sort((a,b)=>a>b).map(v=>v.charCodeAt()).reduce((p,c,i,a)=>p+=c+1==a[i+1],1)==s.length;
 solve=s=>'abcdefghijklmnopqrstuvwxyz'.includes([...s].sort().join``);
 /*
 for(v=97,s='';v<122;)s+=String.fromCharCode(v++)
@@ -15,16 +13,10 @@ s='';while((l=s.length)<26)s+=String.fromCharCode(l+97)
 Array.from({length:26},(v,i)=>String.fromCharCode(i+97)).join``
 Array(27).join().replace(/./g,(v,i)=>String.fromCharCode(i+97))
 */
-    // [...s].sort().join``
->>>>>>> 4ebf2dc7495056bff4a2d0a172fcf9d0596425b4
 
 console.log(solve("abc"),true);
 console.log(solve("abd"),false);
 console.log(solve("dabc"),true);
 console.log(solve("abbc"),false);
-<<<<<<< HEAD
 
 console.log(`${(new Date() - ヒシャム) / 1000} Seconds`);
-=======
-console.log(`${(new Date() - ヒシャム) / 1000} second`);
->>>>>>> 4ebf2dc7495056bff4a2d0a172fcf9d0596425b4

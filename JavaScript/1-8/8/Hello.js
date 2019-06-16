@@ -9,4 +9,4 @@ console.log(hello('alice'), 'Hello, Alice!');
 console.log(hello(), 'Hello, World!');
 console.log(hello(''), 'Hello, World!' );
 
-console.log(`${(new Date() - ヒシャム) / 1000} second`);
+console.log(`${(new Date() - ヒシャム) / 1000} Seconds`);

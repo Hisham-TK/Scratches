@@ -18,4 +18,4 @@ keys.forEach(name => {
     console.log(numKeys >= 3, `not enough properties for room: ${name}`)
 });
 
-console.log(`${(new Date() - ヒシャム) / 1000} second`);
+console.log(`${(new Date() - ヒシャム) / 1000} Seconds`);

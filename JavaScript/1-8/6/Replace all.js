@@ -9,4 +9,4 @@ console.log(replaceAll("1", "", "-"), "-1-", "Single-character input, empty find
 console.log(replaceAll("123", "", "-"), "-1-2-3-", "Empty string as find");
 console.log(replaceAll('123\\^$.|?*+()[]{}', '\\^$.|?*+()[]{}', "-"), "123-", "Empty string as find");
 
-console.log(`${(new Date() - ヒシャム) / 1000} second`);
+console.log(`${(new Date() - ヒシャム) / 1000} Seconds`);

@@ -10,4 +10,4 @@ console.log(doubleCheck("AabBcC"), true);
 console.log(doubleCheck("a b  c"), true);
 console.log(doubleCheck("a b c d e f g h i h k"), false);
 
-console.log(`${(new Date() - ヒシャム) / 1000} second`);
+console.log(`${(new Date() - ヒシャム) / 1000} Seconds`);

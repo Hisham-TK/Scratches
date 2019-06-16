@@ -13,4 +13,4 @@ console.log(toString(3783000), "1:03:03");
 console.log(toString(10800000), "3:00:00");
 console.log(toString(43200999), "12:00:00");
 
-console.log(`${(new Date() - ヒシャム) / 1000} second`);
+console.log(`${(new Date() - ヒシャム) / 1000} Seconds`);

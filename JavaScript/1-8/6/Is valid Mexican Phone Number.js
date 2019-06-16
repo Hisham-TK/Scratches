@@ -8,4 +8,4 @@ console.log(isValidMXPhoneNumber('99956485'), false);
 console.log(isValidMXPhoneNumber('abcdefgh'), false);
 console.log(isValidMXPhoneNumber('(56) 84 6 552'), false);
 
-console.log(`${(new Date() - ヒシャム) / 1000} second`);
+console.log(`${(new Date() - ヒシャム) / 1000} Seconds`);

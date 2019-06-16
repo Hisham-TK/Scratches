@@ -19,4 +19,4 @@ console.log(complexSum(['-1000i', '1000i', '1234']) === '1234');
 console.log(complexSum(['-68+362i', '1-175i', '31+318i', '-128+171i', '248i+490']) , '326+924i');
 console.log(complexSum(['-149+258i', '134-293i', '430+464i', '-244+129i', '-159-81i']) === '12+477i');
 
-console.log(`${(new Date() - ヒシャム) / 1000} second`);
+console.log(`${(new Date() - ヒシャム) / 1000} Seconds`);

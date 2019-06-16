@@ -10,4 +10,4 @@ console.log(incrementString("foobar99"), "foobar100");
 console.log(incrementString("foobar099"), "foobar100");
 console.log(incrementString(""), "1");
 
-console.log(`${(new Date() - ヒシャム) / 1000} second`);
+console.log(`${(new Date() - ヒシャム) / 1000} Seconds`);

@@ -13,4 +13,4 @@ console.log(wheresWally("Wally"),0);
 console.log(wheresWally("Where's Wally"),8);
 console.log(wheresWally("Hi Wally."),3);
 
-console.log(`${(new Date() - ヒシャム) / 1000} second`);
+console.log(`${(new Date() - ヒシャム) / 1000} Seconds`);

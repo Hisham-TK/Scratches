@@ -9,4 +9,4 @@ console.log(dataTypes("123gjet"), ['number', 'string']);
 console.log(dataTypes("truestring1"), ['boolean', 'string', 'number']);
 console.log(dataTypes("hellotrue123"),['string','boolean','number']);
 
-console.log(`${(new Date() - ヒシャム) / 1000} second`);
+console.log(`${(new Date() - ヒシャム) / 1000} Seconds`);

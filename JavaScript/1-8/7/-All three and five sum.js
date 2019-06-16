@@ -8,4 +8,4 @@ findSum=n=>{for(r=0;n;--n)n%3&&n%5?r:r+=n;return r};
 console.log(findSum(5), 8);
 console.log(findSum(10), 33);
 
-console.log(`${(new Date() - ヒシャム) / 1000} second`);
+console.log(`${(new Date() - ヒシャム) / 1000} Seconds`);

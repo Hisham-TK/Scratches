@@ -16,4 +16,4 @@ console.log(stutter('actually I would very much like a mocca if thats ok') === '
 console.log(stutter('zinc') === 'zinc');
 console.log(stutter('ECchar') === 'Eck...ck...har');
 
-console.log(`${(new Date() - ヒシャム) / 1000} second`);
+console.log(`${(new Date() - ヒシャム) / 1000} Seconds`);
