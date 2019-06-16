@@ -1,6 +1,5 @@
 ヒシャム = new Date();
 
-descendingOrder=n=>+[...n+''].sort((a,b)=>b-a).join``;
 descendingOrder=n=>+[...n+''].sort().reverse().join``;
 
 console.log(descendingOrder(0), 0);
