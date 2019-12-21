@@ -1,6 +1,6 @@
-ヒシャム = new Date();
+const ヒシャム = new Date();
 
-alphabetWar=_=>!(r=[..._.replace(/.?\*+.?/g,'')].reduce((p,c)=>p+=(i='wpbs zdqm'.indexOf(c))+1&&i-4,0))?"Let's fight again!":`${r>0?'Righ':'Lef'}t side wins!`;
+const alphabetWar=_=>!(r=[..._.replace(/.?\*+.?/g,'')].reduce((p,c)=>p+=(i='wpbs zdqm'.indexOf(c))+1&&i-4,0))?"Let's fight again!":`${r>0?'Righ':'Lef'}t side wins!`;
 
 console.log(alphabetWar("z"), "Right side wins!");
 console.log(alphabetWar("****"), "Let's fight again!");
