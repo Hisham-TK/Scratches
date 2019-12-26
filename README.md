@@ -7,7 +7,7 @@ Algorithms
 - Angular
 - Ionic
 - React
-- React-natic
+- React-native
 - Elastic Search
 - Micro-Services
 
