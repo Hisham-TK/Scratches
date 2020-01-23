@@ -1,1 +1,3 @@
-console.log("hi");
+import csvParse from "csv-parse";
+
+csvParse.Parser

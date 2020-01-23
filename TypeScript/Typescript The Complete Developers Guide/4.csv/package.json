@@ -9,5 +9,11 @@
   },
   "keywords": [],
   "author": "Hisham Taha Kamal-Al-Din",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "csv-parse": "^4.8.5"
+  },
+  "devDependencies": {
+    "@types/node": "^13.1.8"
+  }
 }
