@@ -6,12 +6,13 @@
   "scripts": {
     "start:dev": "rimraf dist && tsc -w",
     "start:run": "nodemon dist/index.js",
-    "start": "concurrently npm:start:*"
+    "dev": "concurrently npm:start:*",
+    "start": "node ."
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {
+  "devDependencies": {
     "concurrently": "^5.0.2",
     "nodemon": "^2.0.2"
   }
