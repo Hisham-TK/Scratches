@@ -1,6 +1,6 @@
-ヒシャム = new Date();
+const ヒシャム = new Date();
 
-numberFormat=n=>`${n}`.replace(/\B(?=(\d{3})+$)/g,',');
+const numberFormat=n=>`${n}`.replace(/\B(?=(\d{3})+$)/g,',');
 numberFormat=n=>n.toLocaleString();
 
 console.log(numberFormat(100000), '100,000');
