@@ -1,3 +1,3 @@
 import csvParse from "csv-parse";
 
-csvParse.Parser
+csvParse.Parser;
