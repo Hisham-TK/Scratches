@@ -1,4 +1,4 @@
-import { Sorter } from "../Sorter";
+import { Sorter } from '../Sorter';
 
 export class Node {
   next: Node | null = null;
@@ -24,7 +24,7 @@ export class LinkedList extends Sorter {
   }
 
   compare(leftIndex: number, rightIndex: number): boolean {
-    if (!this.head) throw new Error("List is empty");
+    if (!this.head) throw new Error('List is empty');
     return this.at(leftIndex).data > this.at(rightIndex).data;
   }
 
@@ -48,7 +48,7 @@ export class LinkedList extends Sorter {
   }
 
   at(index: number): Node {
-    if (!this.head) throw new Error("Index out of bounds");
+    if (!this.head) throw new Error('Index out of bounds');
     let counter = 0;
     let node: Node | null = this.head;
     while (node) {
@@ -56,7 +56,7 @@ export class LinkedList extends Sorter {
       counter++;
       node = node.next;
     }
-    throw new Error("Index out of bounds");
+    throw new Error('Index out of bounds');
   }
 
   print(): void {

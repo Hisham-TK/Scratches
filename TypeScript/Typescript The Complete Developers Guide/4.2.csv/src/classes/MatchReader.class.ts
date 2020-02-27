@@ -1,6 +1,7 @@
-import { MatchData } from "./interfaces/MatchData.interface";
-import { dateStringToDate } from "./../util";
-import { MatchResult } from "./enums/MatchResult.enum";
+import { MatchData } from './interfaces/MatchData.interface';
+import { dateStringToDate } from './../util';
+import { MatchResult } from './enums/MatchResult.enum';
+import { CsvFileReader } from './CsvFileReader.class';
 
 interface IMatchReader {
   read(): void;
@@ -9,6 +10,10 @@ interface IMatchReader {
 
 export class MatchReader {
   matches: MatchData[] = [];
+
+  static fromCsv(filename: string[]): MatchReader {
+    return new MatchReader(new CsvFileReader(filename));
+  }
 
   constructor(private reader: IMatchReader) {
     this.load();
@@ -22,12 +27,12 @@ export class MatchReader {
           dateStringToDate(row[0]),
           row[1],
           row[2],
-          parseInt(row[3]),
-          parseInt(row[4]),
+          parseInt(row[3], 10),
+          parseInt(row[4], 10),
           row[5] as MatchResult,
-          row[6]
+          row[6],
         ];
-      }
+      },
     );
   }
 }

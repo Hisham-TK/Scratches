@@ -1,5 +1,5 @@
-import { CsvFileReader } from "../CsvFileReader.class";
-import { MatchData } from "../interfaces/MatchData.interface";
+import { CsvFileReader } from '../CsvFileReader.class';
+import { MatchData } from '../interfaces/MatchData.interface';
 import { dateStringToDate } from '../../util';
 
 export class MatchReader extends CsvFileReader<MatchData> {
@@ -8,7 +8,7 @@ export class MatchReader extends CsvFileReader<MatchData> {
   }
 
   mapRaw(raw: string): MatchData {
-    const splicedLine: any = raw.split(",");
+    const splicedLine: any = raw.split(',');
     splicedLine[0] = dateStringToDate(splicedLine[0]);
     splicedLine[3] = parseInt(splicedLine[3]);
     splicedLine[4] = parseInt(splicedLine[4]);

@@ -1,11 +1,9 @@
-import { MatchResult } from "./classes/enums/MatchResult.enum";
-import { CsvFileReader } from "./classes/CsvFileReader.class";
-import { MatchReader } from "./classes/MatchReader.class";
-import { Analyze } from "./classes/Analyze.class";
-import { WinAnalyze } from "./classes/analyzers/WinAnalyze.class";
-import { ConsoleReport } from "./classes/reportTargets/ConsoleReport.class";
+import { MatchReader } from './classes/MatchReader.class';
+import { Analyze } from './classes/Analyze.class';
 
-const csvFileReader = new CsvFileReader([".", "football.csv"]);
-const matchReader = new MatchReader(csvFileReader);
-const analyze = new Analyze(new WinAnalyze("Man United"), new ConsoleReport());
+const matchReader = MatchReader.fromCsv(['.', 'football.csv']);
+const analyze = Analyze.winAnalysisWithHtmlReport('Man United', [
+  '.',
+  're.html',
+]);
 analyze.buildAndPrintReport(matchReader.matches);

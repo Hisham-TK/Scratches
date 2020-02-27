@@ -1,4 +1,4 @@
-import { MatchResult } from "../enums/MatchResult.enum";
+import { MatchResult } from '../enums/MatchResult.enum';
 export type MatchData = [
   Date,
   string,
@@ -6,5 +6,5 @@ export type MatchData = [
   number,
   number,
   MatchResult,
-  string
+  string,
 ];

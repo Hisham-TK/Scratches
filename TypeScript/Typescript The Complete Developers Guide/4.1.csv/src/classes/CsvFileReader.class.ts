@@ -1,5 +1,5 @@
-import { readFileSync } from "fs";
-import { join } from "path";
+import { readFileSync } from 'fs';
+import { join } from 'path';
 
 export abstract class CsvFileReader<T> {
   data: T[] = [];
@@ -7,9 +7,9 @@ export abstract class CsvFileReader<T> {
 
   read(): void {
     this.data = readFileSync(join(...this.filename), {
-      encoding: "utf-8"
+      encoding: 'utf-8',
     })
-      .split("\n")
+      .split('\n')
       .map(this.mapRaw);
   }
 
