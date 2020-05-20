@@ -1,0 +1,6 @@
+{
+  "watch": ["src"],
+  "ext": "ts",
+  "exec": "node ./node_modules/rimraf/bin.js ./outputs/ && node ./node_modules/ts-node/dist/bin.js ./8/-multiply.ts",
+  "ignore": []
+}

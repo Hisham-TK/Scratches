@@ -1,4 +1,4 @@
-ヒシャム = new Date();
+const ヒシャム = new Date();
 
 stutter=s=>s.replace(/(ch\B)|(ck)|(cc)|(c(?![hkc])\B)/gi,(_,a,b,c)=>((a?'c':b?'k':c?'ck':'ch')+'...').repeat(2));
 

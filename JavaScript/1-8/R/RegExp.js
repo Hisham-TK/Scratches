@@ -2,8 +2,8 @@ abbrevName=s=>s.toUpperCase().replace(/(.).*? (.).*/g,'$1.$2');
 abbrevName=s=>s.match(/\b\w/g).join`.`.toUpperCase();
 console.log(abbrevName("Sam Harris"), "S.H");
 
-toCurrency=p=>`${p}`.replace(/(.)(?=(.{3})+$)/,'$1,');
 toCurrency=p=>`${p}`.replace(/\B(?=(.{3})+(?!.))/,',');
+toCurrency=p=>`${p}`.replace(/(.)(?=(.{3})+$)/,'$1,');
 toCurrency=p=>`${p}`.replace(/\d(?=(\d{3})+$)/g,'$&,');
 toCurrency=p=>`${p}`.replace(/.(?=(.{3})+$)/g,'$&,');
 console.log(toCurrency(1234567890), "1,234,567,890");
